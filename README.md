@@ -23,12 +23,12 @@ PUPOSE OF THIS PROJECT -
   
   
   
- TECHNOLOGY STACK -
+ TECHNOLOGY STACK - 
  
-   Services Side -
-   
+    Services Side -
       1. JAVA 8
       2. JSP i.e JAVA SERVER PAGE
+      3. Servlet
      
     UI Side -
       1. HTML5
@@ -39,6 +39,9 @@ PUPOSE OF THIS PROJECT -
       
     DATABASE -
       1. MySQL BD
-  
-
-
+      
+    IDE Used -
+      1. Eclipse IDE
+      
+    Server -
+      1. Apache Tomcat Server 6.0.26
