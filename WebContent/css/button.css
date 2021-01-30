@@ -1,0 +1,29 @@
+.btnn {
+    border: 2px solid black;
+    background-color: white;
+	border-radius: 5px;
+    color: black;
+	padding: 1px 20px;
+    font-size: 14px;
+    cursor: pointer;
+	transition: 1s;
+}
+.successs {
+    border-color: #4CAF50;
+	
+    color: green;
+}
+.successs:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.infoo {
+    border-color: #f44336;
+    color: red
+}
+
+.infoo:hover {
+    background: #f44336;
+    color: white;
+}
