@@ -26,9 +26,10 @@ PUPOSE OF THIS PROJECT -
  TECHNOLOGY STACK -
  
    Services Side -
+   
       1. JAVA 8
       2. JSP i.e JAVA SERVER PAGE
-      
+     
     UI Side -
       1. HTML5
       2. CSS3
