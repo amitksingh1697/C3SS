@@ -39,7 +39,7 @@ PUPOSE OF THIS PROJECT -
       7. jQuery
       
     DATABASE -
-      1. MySQL BD
+      1. MySQL Database
       
     IDE Used -
       1. Eclipse IDE
