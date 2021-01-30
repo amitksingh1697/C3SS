@@ -36,6 +36,7 @@ PUPOSE OF THIS PROJECT -
       3. JAVASCRIPT
       5. SCSS
       6. BOOTSTRAP
+      7. jQuery
       
     DATABASE -
       1. MySQL BD
